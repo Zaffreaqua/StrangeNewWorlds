@@ -1,0 +1,11 @@
+CREDITS
+
+A special thanks to:
+-Gregrox	-	For his amazing star tutorial and otherwise making me feel at home in the planet modding community shortly after I joined.
+-Adstriduum	-	For inspiration, support, and camaraderie
+-SnailsAttack	-	Supplied references
+-TheGhastModding	-	Helped generate Oceanus' initial texture.
+-OhioBob	-	For being an all around great guy, providing documentation, and helping out with temperatures/atmospheres.
+-Exo	-	For being an all around great person and supportive of my endeavor.
+-StarCrusher	-	For occasional pointers and interest.
+-RTB	-	For keeping Kopernicus alive and keeping the line of communication open!
