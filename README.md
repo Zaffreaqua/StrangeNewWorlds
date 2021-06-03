@@ -6,25 +6,28 @@ This mod adds a triple star system based off of our own Polaris System, adding a
 The system is positioned 90 degrees above the home/stock system and lies about 4.3 kerbal light years away, or 0.43 real-scale light years away.
 
 
-**COMPATIBILITY**
 
-Being a mod that adds a new system away from the home system, Strange New Worlds should be compatible with most system replacers and other system-adding mods. Is it compatible with OPM you ask? Install it and find out. ;)
-
-
-
-**REQUIRED MODS**
+## REQUIRED MODS
 
 Kopernicus: https://forum.kerbalspaceprogram.com/index.php?/topic/200143-181-1111-kopernicus-stable-branch-last-updated-march-14th-2021/
 
 
 
-OPTIONAL/RECOMMENDED MODS
+### OPTIONAL/RECOMMENDED MODS
 
+If you want to take a route that's less of a hassle, try wormholes with KopEx!
 Kopernicus Expansion Continued-er: https://forum.kerbalspaceprogram.com/index.php?/topic/195844-19-111-kopernicus-expansion-continued-er/
 
+If you want to get there the old fashioned way, I recommend Blueshift, KSPIE, or Far Future Technologies with Cavlin's buffed ISP patch. Oh, and Better Timewarp for your convenience. :P
+
+If you want a nice home that meshes well with this system, try Beyond Home. If you want to give the lone Polaris system some friends, you cannot go wrong with Extrasolar and Galaxies Unbound.
+
+### COMPATIBILITY
+
+Being a mod that adds a new system away from the home system, Strange New Worlds should be compatible with most system replacers and other system-adding mods. Is it compatible with OPM you ask? Install it and find out. ;)
 
 
-**CREDITS**
+## CREDITS
 A special thanks to...
 -Gregrox	-	For his amazing star tutorial and otherwise making me feel at home in the planet modding community shortly after I joined.
 -Adstriduum	-	For inspiration, support, and camaraderie.
@@ -37,7 +40,6 @@ A special thanks to...
 -Vabien - For keeping Kopernicus Expansion alive!
 
 
-
-**LICENSE**
+## LICENSE
 
 All assets are held under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License.
