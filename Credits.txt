@@ -10,6 +10,9 @@ TheGhastModding	-	Helped create Oceanus' initial texture.
 OhioBob	-	For being an all around great guy, providing documentation, and helping out with temperatures/atmospheres.
 StarCrusher	-	For occasional pointers, interest, support, and being one of my sources of inspiration!
 
+Clonos - Great support, nice shots, and hunting bugs!
+ballisticfox - For taking great shots and helping find problems for me to iron out!
+
 RTB	-	For keeping Kopernicus alive and keeping the line of communication open!
 Vabien - For keeping Kopernicus Expansion alive!
 Snark - For answering questions about the forum!
